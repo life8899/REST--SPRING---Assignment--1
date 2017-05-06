@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author W208079293
+ * @author w208999498
  */
 @RestController
 public class GreetingController {

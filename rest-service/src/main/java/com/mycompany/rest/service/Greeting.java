@@ -7,7 +7,7 @@ package com.mycompany.rest.service;
 
 /**
  *
- * @author W208079293
+ * @author w208999498
  */
 public class Greeting {
    private final long id;
