@@ -20,9 +20,9 @@ public class Main {
         StudentDAO stdDAO = (StudentDAO) context.getBean("studentDAO");
         
 //        Student student = new Student();
-//        student.setFirstname("Gbemisola");
-//        student.setLastname("Nogueira");
-//        student.setAddress("1600 street");
+//        student.setFirstname("Adam");
+//        student.setLastname("Smith");
+//        student.setAddress("1888 Main street");
 //        
 //        stdDAO.persist(student);
         
